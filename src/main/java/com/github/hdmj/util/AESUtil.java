@@ -14,7 +14,7 @@ public class AESUtil {
     /**
      * 加密向量
      */
-    private static final String IV = "e143914d1e3b42do";
+    private static final String IV = "RgunyHt41SKWaI4l";
 
     private static final IvParameterSpec IV_PARAMETER_SPEC = new IvParameterSpec(IV.getBytes());
 
